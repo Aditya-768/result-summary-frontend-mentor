@@ -16,7 +16,7 @@ body{
     justify-content: center;
     align-items: center;
     background-color:  hsl(0, 0%, 100%);
-    margin: 5rem;
+    margin: 1rem;
     box-shadow: 10px 10px 40px rgb(189, 189, 242);
     border-radius: 2rem;
 }
