@@ -30,7 +30,8 @@ body{
     justify-content: space-around;
     align-items:center;
     flex-direction: column;
-    background: linear-gradient(hsl(251, 77%, 58%),hsl(230, 100%, 50%) );
+    background: linear-gradient(hsl(251, 77%, 58%),rgb(68, 0, 255), hsl(234, 85%, 45%)
+    );
     border-radius: 2rem;
 }
 
@@ -115,25 +116,25 @@ button{
     color: hsl(0, 100%, 67%);
     font-weight: bold;
     position: relative;
-    right: 15%;
+    left: -1.3rem;
 }
 .memory-color{
     color: hsl(39, 100%, 56%);
     font-weight: bold;
     position: relative;
-    right: 16%;
+    left: -1.4rem;
 }
 .verbal-color{
     color:  hsl(166, 100%, 37%);
     font-weight: bold;
     position: relative;
-    right: 18%;
+    left: -1.8rem;
 }
 .visual-color{
     color: hsl(234, 85%, 45%) ;
     font-weight: bold;
     position: relative;
-    right: 19%;
+    left: -2rem;
 }
 
 
